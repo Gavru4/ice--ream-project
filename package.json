@@ -6,7 +6,7 @@
   "homepage": " https://gavru4.github.io/ice-cream-project/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Icecream/"
+    "build": "parcel build src/*.html --public-url /ice-cream-project/"
   },
   "repository": {
     "type": "git",
